@@ -112,9 +112,9 @@
 
 	--Fetching the Rows with the row_number 1.
     SELECT*
-	FROM CTE
-	WHERE rn=1
-	ORDER BY order_id;
+    FROM CTE
+    WHERE rn=1
+    ORDER BY order_id;
 
 ---Alternative way to Remove the Duplicates :
    
@@ -122,10 +122,10 @@
 	DELETE FROM dbo.[sales 2017-2019] 
 	WHERE ID NOT IN (
 	                  SELECT MIN(ID)
-                      FROM dbo.[sales 2017-2019]
-                      GROUP BY order_id,product_id,store_id,order_date,sales,revenue,stock,price,delivery_date
-                      ORDER BY order_id ASC 
-					 ) AS Inner_query;
+                          FROM dbo.[sales 2017-2019]
+                          GROUP BY order_id,product_id,store_id,order_date,sales,revenue,stock,price,delivery_date
+                          ORDER BY order_id ASC 
+		        ) AS Inner_query;
 
 	
 ---Adding a Constraint to the Column 
