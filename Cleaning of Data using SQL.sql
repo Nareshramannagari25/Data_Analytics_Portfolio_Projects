@@ -131,15 +131,3 @@
 ---Adding a Constraint to the Column 
     ALTER TABLE dbo.[sales 2017-2019] 
     ADD CONSTRAINT product_id_fk FOREIGN KEY(product_id) REFERENCES dbo.products(product_id);
-
-
-	
-
-   
-
-
-
-
-   
-   
-   
