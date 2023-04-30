@@ -10,13 +10,14 @@
 							 Views, 
 							 Procedures, 
 					                 Window Functions, 
-							 In-Built Functions Clauses like : 
-							                                   DISTINCT,
-											   WHERE, 
-											   GROUP BY, 
-											   ORDER BY, 
-											   OFFSET, 
-											   FETCH  */
+							 In-Built Functions,
+							 Clauses like : 
+							                DISTINCT,
+								        WHERE, 
+									GROUP BY, 
+									ORDER BY, 
+									OFFSET, 
+									FETCH  */
 													 
 -- Creating Indexes on the Foreign Key Columns:
 
