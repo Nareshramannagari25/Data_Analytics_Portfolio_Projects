@@ -4,7 +4,7 @@
    This project focuses on analysing pizza sales data using Power BI. 
    The goal of this project is to create a dashboard that provides insights into pizza sales, customer behaviour, and trends.
    
-## **Data Import :** 
+### **Data Import :** 
    The first step in this project involved importing three datasets using the Get Data - pizzas, pizza types, and orders - into Power BI.
    
    ![Importing Dataset](https://user-images.githubusercontent.com/119388236/235915651-5b920201-2286-4418-a73a-8425bab8188a.png)
