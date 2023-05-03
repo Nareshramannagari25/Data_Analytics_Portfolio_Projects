@@ -49,8 +49,7 @@
     9. Bar chart
     
    ![Pizza Sales Dashboard](https://user-images.githubusercontent.com/119388236/235917742-1b03c5e8-044c-4cd3-b2b2-70d703a2a5c9.png)
-   ![Insights](https://user-images.githubusercontent.com/119388236/235918369-7b5f1a9b-ea18-43a7-956d-471cd3277f30.png)
-
+   
 ### **Conclusion :**
    By leveraging the insights gained from this analysis, the project aims to assist in optimizing the menu, 
    planning promotions and offers, and making informed    decisions to drive sales growth.
