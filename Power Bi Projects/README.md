@@ -48,8 +48,10 @@
     8. Line chart
     9. Bar chart
     
-   ![Pizza Sales Dashboard](https://user-images.githubusercontent.com/119388236/235917742-1b03c5e8-044c-4cd3-b2b2-70d703a2a5c9.png)
-   
+
+
+   ![Dominos Dashboard](https://github.com/Nareshramannagari25/Data_Analytics_Portfolio_Projects/assets/119388236/3cc3281b-1fad-47eb-ae0b-36363e8569c5)
+
    ![Insights](https://user-images.githubusercontent.com/119388236/235918781-3060c6b5-7f26-4c56-8786-8b6e7d5dbe21.png)
 
    
